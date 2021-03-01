@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pagWebPrueba"
+    }
+  },
+  "defaultProject": "pagWebPrueba",
+  "cli": {
+    "analytics": "9393fb07-6a88-4b24-abc3-e4e7d61844da"
+  }
 }
